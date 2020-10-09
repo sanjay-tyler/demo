@@ -9,4 +9,4 @@ added a sub header
 
 # issue1
  
-added into issu1
+added into issue1
